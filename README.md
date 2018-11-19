@@ -32,7 +32,7 @@ The following features/functions will be includes.
 (4) php artisan passport:client --personal
  ```
  
-## Testing Tool
+## testing tool
 [Postman](https://www.getpostman.com/)
 
 ## ER Diagram
