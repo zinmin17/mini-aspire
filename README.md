@@ -27,8 +27,9 @@ The following features/functions will be includes.
 
 ```
 (1) create database
-(2) php artisan migrate
-(3) php artisan passport:client --personal
+(2) configure config/database.php
+(3) php artisan migrate
+(4) php artisan passport:client --personal
  ```
 ## ER Diagram
 ![aspire mini](https://user-images.githubusercontent.com/18179544/48685706-9dfcbf00-ebf2-11e8-9119-e434a162a8a4.png)
