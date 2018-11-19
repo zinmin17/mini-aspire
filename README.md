@@ -35,7 +35,7 @@ The following features/functions will be includes.
 ## testing tool
 [Postman](https://www.getpostman.com/)
 
-## ER Diagram
+## ER diagram
 ![aspire mini](https://user-images.githubusercontent.com/18179544/48685706-9dfcbf00-ebf2-11e8-9119-e434a162a8a4.png)
 
       
