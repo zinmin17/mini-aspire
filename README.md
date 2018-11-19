@@ -31,6 +31,10 @@ The following features/functions will be includes.
 (3) php artisan migrate
 (4) php artisan passport:client --personal
  ```
+ 
+## Testing Tool
+[Postman](https://www.getpostman.com/)
+
 ## ER Diagram
 ![aspire mini](https://user-images.githubusercontent.com/18179544/48685706-9dfcbf00-ebf2-11e8-9119-e434a162a8a4.png)
 
